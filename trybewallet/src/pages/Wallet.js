@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import Form from '../components/Form';
+import Form from '../components/Forms';
 import Header from '../components/Header';
 import Table from '../components/Table';
 import '../App.css';
