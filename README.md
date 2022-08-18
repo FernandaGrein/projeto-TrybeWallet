@@ -7,7 +7,7 @@ complementando com React-Redux e o Redux-thunk.
 
 Para acessar o repositório, clone-o, acesse a página do projet, instale as dependências e rode no navegador, seguindo os passos abaixo:
 
-- git@github.com:FernandaGrein/projeto-TrybeWallet.git
+- git clone git@github.com:FernandaGrein/projeto-TrybeWallet.git
 - cd trybewallet, 
 - npm install 
 - npm start.
