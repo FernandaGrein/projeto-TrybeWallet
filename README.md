@@ -5,10 +5,14 @@ O Projeto TrybeWallet é parte dos projetos do módulo de Front-end da trybe.
 Este projeto foi realizado utilizando JavaScript, Html e Css, feito utilizando as Bibliotecas: do React e do Redux, 
 complementando com React-Redux e o Redux-thunk.
 
-É possível acessar o repositório clonando-o com o comando git@github.com:FernandaGrein/projeto-TrybeWallet.git
-entre na pasta com o comando cd trybewallet, 
-instale as dependências com o npm install 
-e é possível rodar o projeto no navegador com o comando npm start.
+É possível acessar o repositório clonando-o com o comando
+- git@github.com:FernandaGrein/projeto-TrybeWallet.git
+entre na pasta com o comando 
+- cd trybewallet, 
+instale as dependências com 
+- npm install 
+e é possível rodar o projeto no navegador com o comando
+- npm start.
 
 Foram seguidos os seguintes requisitos nesse projeto:
 - Criado uma página de Login, que recebe o email e a senha do usuário e possibilita logar na página da carteira
